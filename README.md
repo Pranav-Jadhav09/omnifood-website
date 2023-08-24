@@ -19,7 +19,7 @@ We are a technology company first, but with a major focus on consumer well-being
 
 ## Demo
 
-![Omnifood Demo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fsearch%2Fprojects%2F%3Fsearch%3Domnifood&psig=AOvVaw3vSEwSLvbA_ivjuXWfoYJM&ust=1692980241629000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjAoYPZ9YADFQAAAAAdAAAAABAJ "Desktop Demo")
+![Omnifood Demo](./img/newhhhhh.jpg "Desktop Demo")
 
 ## Prerequisites
 
